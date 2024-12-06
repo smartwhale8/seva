@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Catcher in the Rye</title>
+    <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <h1 class="logo">My<span>Bookshelf</span></h1>
+        </div>
+    </header>
+
+    <section class="book-details">
+        <div class="container">
+            <h2>The Catcher in the Rye</h2>
+            <p><strong>Author:</strong> J.D. Salinger</p>
+            <p><strong>Published:</strong> 1951</p>
+            <p><strong>Summary:</strong> This novel tells the story of Holden Caulfield, a teenager navigating the challenges of adulthood, identity, and alienation in post-World War II America.</p>
+            <p><strong>Why I Plan to Read:</strong> Its reputation as a classic and its exploration of timeless themes make it a must-read.</p>
+            <a href="../index.html" class="back-link">Back to Bookshelf</a>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2024 MyBookshelf | Designed with ❤</p>
+        </div>
+    </footer>
+</body>
+</html>
